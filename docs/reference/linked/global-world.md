@@ -4,7 +4,7 @@ Global World has a trunk line connected to the Hams Over IP network, which allow
 
 This network which handles prefix 818, was concieved and is maintained by Jesse, WH6AV.
 
-Questions about the Global World VOIP Network can be directed to Jesse, preferably via email wh6av808@gmail.com or WH6AV on Discord. His MeshPhone number is 818-1100.
+Questions about the Global World VOIP Network can be directed to Jesse, preferably via [email](mailto:wh6av808@gmail.com) or WH6AV on Discord. His MeshPhone number is 818-1100.
 
 ## Calling a Global World user from Hams Over IP
 

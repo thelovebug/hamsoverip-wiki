@@ -6,7 +6,7 @@ Hams Over IP has a trunk line connected to the NZSIP network, which allows users
 
 ## Calling an NZSIP number from Hams Over IP
 
-To call an NZSIP number from the Hams Over IP network, dial `640`followed by the NZSIP extension of the user you wish to call. The system will automatically direct the call across the NZSIP Trunk.
+To call an NZSIP number from the Hams Over IP network, dial `640` followed by the NZSIP extension of the user you wish to call. The system will automatically direct the call across the NZSIP Trunk.
 
 * Try it: dial `64050282`. You should be connected with VK2WAY Jared.
 

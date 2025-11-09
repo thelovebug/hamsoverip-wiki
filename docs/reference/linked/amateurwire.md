@@ -8,7 +8,7 @@ AmateurWire is a VOIP Telephone Network, much the same as the Hams Over IP Netwo
 
 Hams Over IP has a trunk line connected to the AmateurWire network, which allows users from both networks to call each other.
 
-Questions about the AmateurWire Network can be directed to Roger, KE8LCM on Discord or via email ke8lcm@ke8lcm.com.
+Questions about the AmateurWire Network can be directed to Roger, KE8LCM on Discord or via [email](mailto:ke8lcm@ke8lcm.com).
 
 ## Calling a AmateurWire Number from Hams Over IP
 

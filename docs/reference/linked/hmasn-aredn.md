@@ -4,7 +4,7 @@ Hawaii Mainland Overseas Allstar/Aredn has a trunk line connected to the Hams Ov
 
 This network which handles prefix 808, was concieved and is maintained by Jesse, WH6AV.
 
-Questions about the Hawaii Mainland Overseas Allstar/Aredn Network can be directed to Jesse, preferably via email wh6av808@gmail.com or WH6AV on Discord. His MeshPhone number is 808-3027.
+Questions about the Hawaii Mainland Overseas Allstar/Aredn Network can be directed to Jesse, preferably via [email](mailto:wh6av808@gmail.com) or WH6AV on Discord. His MeshPhone number is 808-3027.
 
 For more information about Hawaii Mainland Overseas Allstar/Aredn Network, go to [HMASN website](http://hmasn.com/).
 
