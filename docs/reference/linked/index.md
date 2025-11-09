@@ -6,7 +6,7 @@ As well as a summary of these services below, you can also find out more detail 
 
 <div class="grid cards" markdown>
 
--   **AmateurWire**
+- **AmateurWire**
 
     ---
 
@@ -17,7 +17,7 @@ As well as a summary of these services below, you can also find out more detail 
     :fontawesome-solid-square-arrow-up-right: [Website](https://amateurwire.org/)
     :fontawesome-solid-square-plus: [More info](./amateurwire.md)
 
--   **Global World VOIP**
+- **Global World VOIP**
 
     ---
 
@@ -27,7 +27,7 @@ As well as a summary of these services below, you can also find out more detail 
     :fontawesome-solid-square-phone: [Phonebook](http://wh6av.net:2580/phonebook/)
     :fontawesome-solid-square-plus: [More info](./global-world.md)
 
--   **Hams Over IP Canada**
+- **Hams Over IP Canada**
 
     ---
 
@@ -38,7 +38,18 @@ As well as a summary of these services below, you can also find out more detail 
     :fontawesome-solid-square-arrow-up-right: [Website](https://hamsoverip.ca/)
     :fontawesome-solid-square-plus: [More info](./hamsoverip-ca.md)
 
--   **HMASN/AREDN**
+- **HamVoIP NL**
+
+    ---
+
+    :fontawesome-solid-circle-arrow-right: Calling out: `031+extn`  
+    :fontawesome-solid-circle-arrow-left: Calling in: `577+extn`
+
+    :fontawesome-solid-square-phone: [Phonebook](https://www.hamvoip.nl/numbers_public.php)
+    :fontawesome-solid-square-arrow-up-right: [Website](https://www.hamvoip.nl/)
+    :fontawesome-solid-square-plus: [More info](./hamvoip-nl.md)
+
+- **HMASN/AREDN**
 
     ---
 
@@ -49,7 +60,7 @@ As well as a summary of these services below, you can also find out more detail 
     :fontawesome-solid-square-arrow-up-right: [Website](http://hmasn.com/)
     :fontawesome-solid-square-plus: [More info](./hmasn-aredn.md)
 
--   **Meshphone**
+- **MeshPhone**
 
     ---
 
@@ -58,7 +69,7 @@ As well as a summary of these services below, you can also find out more detail 
 
     :fontawesome-solid-square-plus: [More info](./meshphone.md)
 
--   **NZSIP**
+- **NZSIP**
 
     ---
 
